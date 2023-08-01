@@ -38,6 +38,7 @@ dependencies:
   flutter_spinkit: any
   google_fonts: any
   http: any
+  flutter_animate: ^4.2.0+1
 
 dev_dependencies:
   flutter_test:

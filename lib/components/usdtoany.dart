@@ -12,7 +12,7 @@ class USDtoany extends StatefulWidget {
 }
 
 final usdController = TextEditingController();
-String initialval = 'AUD';
+String initialval = 'BRL';
 String answer = 'Dólar convertido aparecerá aqui';
 
 class _USDtoanyState extends State<USDtoany> {

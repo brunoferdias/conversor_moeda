@@ -12,8 +12,8 @@ class AnytoAny extends StatefulWidget {
 }
 
 final anyToAnyController = TextEditingController();
-String initialval1 = 'AUD';
-String initialval2 = 'AUD';
+String initialval1 = 'BRL';
+String initialval2 = 'USD';
 String answer = 'Sua conversão aparecerá aqui';
 
 class _AnytoAnyState extends State<AnytoAny> {
