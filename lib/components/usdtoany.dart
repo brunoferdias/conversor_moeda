@@ -55,6 +55,7 @@ class _USDtoanyState extends State<USDtoany> {
               ),
             ),
             Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Padding(
                   padding: const EdgeInsets.all(15.0),
@@ -75,7 +76,7 @@ class _USDtoanyState extends State<USDtoany> {
                       }),
                 ),
                 SizedBox(
-                  width: 100,
+                  width: 20,
                 ),
                 InkWell(
                   onTap: () {
